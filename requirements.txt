@@ -1,0 +1,7 @@
+pathlib
+numpy
+torch
+torchvision
+tqdm
+tensorboardX
+matplotlib
